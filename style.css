@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Taviraj:wght@400;500&display=swap');
+html{
+  height: 100%
+}
+body{
+    background-image: linear-gradient(to bottom, #0b0f4b, #003068, #004c78, #00687d, #07827e);
+    background-attachment: fixed;
+    height: 100%;
+    font-family: 'Fira Code',monospace, 'Taviraj', serif;
+}
