@@ -1,0 +1,13 @@
+{
+    "name": "pcshsst/docside",
+    "authors": [
+        {
+            "name": "TheNongice Wasawat",
+            "email": "ice7533678@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

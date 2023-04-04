@@ -26,7 +26,6 @@
   <script src="https://kit.fontawesome.com/7b30317d32.js" crossorigin="anonymous"></script>
   <!-- Custom CSS -->
   <link rel="stylesheet" href="style.css">
-  <meta http-equiv="refresh" content="0; url=http://example.com">
 </head>
 <body>
   
@@ -45,7 +44,7 @@
                   </div>
               </div>
               <h1 class="text-center">หมอเคียงคุณ</h1>
-              <p class="text-center fst-italic">PCSHSST ~ ว.จ.ภ.สตูล</p>
+              <p class="text-center fst-italic">PCSHSST ~ จ.ภ.สตูล</p>
               <hr>
               <?php if (isset($_SESSION['err_msg'])) { echo $_SESSION['err_msg']; unset($_SESSION['err_msg']);} ?>
               <form action="api/authen/login.php" method="POST" autocomplete="OFF">
